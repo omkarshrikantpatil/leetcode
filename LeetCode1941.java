@@ -15,6 +15,6 @@ public class LeetCode1941 {
         return true;
     }
     public static void main(String[] args) {
-        
+
     }
 }
