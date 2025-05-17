@@ -1,4 +1,5 @@
 public class LeetCodeBinarySearch {
+    //Binary Search Algorithim in sorted array
     public static int binarySearch(int [] arr, int target){
         int start = 0;
         int end = arr.length - 1;
@@ -17,6 +18,7 @@ public class LeetCodeBinarySearch {
 
         return -1;
     }
+
     public static void main(String[] args) {
         System.out.println(binarySearch(new int[] {1, 2, 3, 4, 5, 6}, 5));
     }
