@@ -18,7 +18,7 @@ public class Recursion {
     }
 
     public static void main(String[] args) {
-        printNtoOne(5);
+        printNtoOne(20);
         System.out.println();
         printOneToN(5);
     }
